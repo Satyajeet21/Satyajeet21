@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 
-- 📫 How to reach me **jeetsatyacan@gmail.com**
+- 📫 How to reach me **satyajeetbehera.tech@gmail.com**
 
 - ⚡ Fun fact **I shoot models.**
 
