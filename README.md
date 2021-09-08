@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-
 - 📫 How to reach me **satyajeetbehera.tech@gmail.com**
 
 - 😄 Pronouns: He/His
