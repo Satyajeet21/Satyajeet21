@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I shoot models.**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mokshya-priyadarshee&label=Profile%20views&color=0e75b6&style=plastic" alt="mokshya-priyadarshee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Profile%20views&color=0e75b6&style=plastic" alt="Satyajeet21" /> </p>
 
 ## 🚀 Languages and Tools I worked with:
 
