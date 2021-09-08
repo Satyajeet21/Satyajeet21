@@ -41,8 +41,7 @@
 </p>
 <br>
 
-<h2 align="left"><strong>Statistics: 📈
-</h2>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyajeet21&show_icons=true&locale=en&layout=compact" alt="Satyajeet21" />
  </p>
 
