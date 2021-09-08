@@ -38,3 +38,7 @@
 
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshya-priyadarshee&show_icons=true&locale=en&layout=compact" alt="mokshya-priyadarshee" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mokshya-priyadarshee&show_icons=true&locale=en" alt="mokshya-priyadarshee" /></p>
+
