@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **satyajeetbehera.tech@gmail.com**
 
+- 😄 Pronouns: He/His
+
 - ⚡ Fun fact **I shoot models.**
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Profile%20views&color=0e75b6&style=plastic" alt="Satyajeet21" /> </p>
