@@ -37,7 +37,7 @@
 <a href = "https://www.instagram.com/____satyajeeeet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyajeet21&show_icons=true&locale=en&layout=compact" alt="Satyajeet21" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyajeet21&show_icons=true&locale=en" alt="Satyajeet21" /></p>
