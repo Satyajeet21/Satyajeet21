@@ -17,7 +17,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Profile%20views&color=0e75b6&style=plastic" alt="Satyajeet21" /> </p>
 
-## 🚀 Languages and Tools I worked with:
+## 🚀 Languages and Tools I Worked With:
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"             height="40"/> </a> 
