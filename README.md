@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I shoot models.**
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Profile%20views&color=0e75b6&style=plastic" alt="Satyajeet21" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Views&color=0e75b6&style=plastic" alt="Satyajeet21" /> </p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Views&color=blue&style=plastic" alt="Satyajeet21" /> </p>
 
