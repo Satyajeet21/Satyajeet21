@@ -39,8 +39,9 @@
 </p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyajeet21&show_icons=true&locale=en&layout=compact" alt="Satyajeet21" />
- </p>
+<a href="https://github.com/Satyajeet21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajeet21&theme=light&hide_langs_below=1" />
+</a>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyajeet21&show_icons=true&locale=en" alt="Satyajeet21" />
  </p>
