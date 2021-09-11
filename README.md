@@ -17,7 +17,6 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Views&color=0e75b6&style=plastic" alt="Satyajeet21" /> </p>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Views&color=blue&style=plastic" alt="Satyajeet21" /> </p>
 
 ## 🚀 Languages and Tools I Worked With:
 
@@ -38,21 +37,6 @@
 <p align="left">
 <a href = "https://twitter.com/foreverakela_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/____satyajeeeet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/imthepk">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/imthepk">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/iampawan">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 </p>
 <br>
 
