@@ -44,12 +44,14 @@
 
  
  <p>
-    <a href="https://github.com/Satyajeet21">
+      <a href="https://github.com/Satyajeet21">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajeet21&theme=light&hide_langs_below=1" />
-    </a>
+      </a>
  </p>
  
 <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyajeet21&show_icons=true&locale=en" alt="Satyajeet21" />
+   <a href="https://github.com/Satyajeet21">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyajeet21&show_icons=true&theme=light&line_height=27" alt="Satyajeet's github stats"/>
+   </a>
 </p>
 
