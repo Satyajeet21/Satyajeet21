@@ -36,19 +36,20 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://twitter.com/foreverakela_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/____satyajeeeet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://twitter.com/foreverakela_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href = "https://www.instagram.com/____satyajeeeet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 <br>
 
 
  
  <p>
- <a href="https://github.com/Satyajeet21">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajeet21&theme=light&hide_langs_below=1" />
- </a>
+    <a href="https://github.com/Satyajeet21">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajeet21&theme=light&hide_langs_below=1" />
+    </a>
  </p>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyajeet21&show_icons=true&locale=en" alt="Satyajeet21" />
- </p>
+<p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyajeet21&show_icons=true&locale=en" alt="Satyajeet21" />
+</p>
 
