@@ -34,9 +34,6 @@
 
 ## Connect with me:
 <p align="left">
- [![Twitter: imthepk](https://img.shields.io/twitter/follow/foreverakela_?style=social)](https://twitter.com/foreverakela_)
- [![GitHub iampawan](https://img.shields.io/github/followers/Satyajeet21?label=follow&style=social)]()
- 
 <a href = "https://twitter.com/foreverakela_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/____satyajeeeet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
