@@ -17,7 +17,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Views&color=0e75b6&style=plastic" alt="Satyajeet21" /> </p>
 
-## 🚀 Languages and Tools I Worked With:
+
 
 ## 🛠️ Technologies and Tools I use:
 
