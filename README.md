@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I shoot models.**
 
- <a href="https://linktr.ee/Satyajeet21" target="_blank"><img alt="Twitter" src="Satyajeet21.svg"  height="75px"/></a> <br>
+ <a href="https://linktr.ee/Satyajeet21" target="_blank"><img alt="Twitter" src="Satyajeet21.svg"  height="75px"/></a>
 <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyajeet21&label=Views&color=0e75b6&style=plastic" alt="Satyajeet21" /> </p>
