@@ -1,4 +1,4 @@
-<h1  align="center" ><a href="#"><img width="40%"  height="auto" src="Developer activity-bro.svg"/></a></h1>
+<h1  align="center" ><img width="45%"  height="auto" src="Developer activity-bro.svg"/></h1>
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  I'm Satyajeet Behera</h1>
