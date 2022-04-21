@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="Satyajeet's Github.gif height="105px"/></a>
+<a href="#"><img width="100%" height="auto" src="Satyajeet's Github.gif" height="105px"/></a>
 Developer activity.gif
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  I'm Satyajeet Behera</h1>
