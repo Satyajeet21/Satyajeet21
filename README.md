@@ -39,7 +39,7 @@
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img alt="Java" src="https://img.shields.io/badge/-Java-2531b0?style=flat-square&logo=java&logoColor=white" height="25px"/>
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-57520?style=flat-square&logo=mysql&logoColor=white" height="25px"/>
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-eb701e?style=flat-square&logo=mysql&logoColor=white" height="25px"/>
 
 ## Connect with me:
 
