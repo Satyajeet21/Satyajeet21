@@ -52,7 +52,7 @@
      </a>
  </p>
 
-<div align="center">
+<div align="left">
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyajeet21&show_icons=true&theme=light&line_height=27" alt="Satyajeet Behera's Github Stats"/>
     </p>
