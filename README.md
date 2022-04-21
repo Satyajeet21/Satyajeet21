@@ -53,6 +53,8 @@
  </p>
 
 <div align="center">
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyajeet21&show_icons=true&theme=light&line_height=27" alt="Satyajeet Behera's Github Stats"/>
+    </p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajeet21&" alt="soumyajit" />
 </div>
