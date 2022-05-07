@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: He/His
 
-- ⚡ Fun fact **I shoot models.**
+- ⚡ <a href="https://satyajeetbehera.netlify.app/" target="_blank"> Portfolio Link </a> 
 
  <a href="https://linktr.ee/Satyajeet21" target="_blank"><img alt="Twitter" src="Satyajeet21.svg"  height="75px"/></a>
 <br>
